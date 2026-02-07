@@ -2,6 +2,8 @@
 
 Next.js で構築されたモダンな RSS リーダーアプリケーションです。
 
+![RSS Reader Screenshot](public/image.png)
+
 ## 技術スタック
 
 | レイヤー | 技術 |
